@@ -1,3 +1,3 @@
 # MoviesImdbSearchApi
 
-An Android App for searching movies in Imdb site.
+An Android App for searching movies.
